@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aanmelden</title>
+</head>
+<body>
+    <h1>Aanmelden</h1>
+
+<p>Bent u geïnteresseerd in samenwerken met CMD Amsterdam? Dat kan!
+Tijdens de opleiding werken studenten aan projecten voor echte opdrachtgevers. Ook
+lopen de studenten stage, in het tweede en afstudeerjaar.</p>
+
+<em>CMD Amsterdam zoekt altijd naar positieve verbindingen met de creatieve stad
+Amsterdam.</em>
+
+<p>Voor het aanmelden van stageplekken of projecten kunt u onderstaand formulier invullen.
+Wij nemen zo nodig contact met u op nadat het formulier is verstuurd.
+Voor vragen of opmerkingen kunt u <a href="url">contact</a> met ons op.</p>
+
+<h2>Contactgegevens</h2>
+<form>
+Naam:<br>
+  <input type="text" name="firstname">
+  <br>
+Bedrijf:<br>
+  <input type="text" name="lastname">
+  <br>
+Adres:<br>
+  <input type="text" name="firstname">
+  <br>
+Postcode:<br>
+  <input type="text" name="lastname">
+  <br>
+Plaats:<br>
+  <input type="text" name="firstname">
+  <br>
+Telefoon:<br>
+  <input type="text" name="lastname">
+  <br>
+Email:<br>
+  <input type="text" name="lastname">
+</form>
+
+<p>Ik wil mij aanmelden voor:
+<form action="">
+<input type="radio" name="Voor een project" value="Voor een project">Voor een project<br>
+<input type="radio" name="Als stagebedrijf" value="Als stagebedrijf">Als stagebedrijf
+</form>
+</p>
+
+<p>
+<table border="1">
+  <tr> <th>Project</th> <th>Stage</th> </tr>
+  <tr> <td>
+      <ol>
+    <li>Titel</li>
+    <li>Opdrachtomschrijving</li>
+    <li>Doelgroepomschrijving</li>
+    <li>Doelstelling/ intentie van het project</li>
+    <li>Looptijd</li>
+    <li>Deadline</li>
+      </ol>
+      </td>
+      <td>
+      Geschikt voor:
+      <ol>
+    <li>Titel</li>
+    <li>Tweedejaars studenten</li>
+    <li>Afstudeer studenten</li>
+    <li>Onbekend</li>
+      </ol>
+      </td>
+  </tr>
+  <tr> <td>
+
+      </td>
+      <td>
+      Beschrijving werkzaamheden:
+      <ol>
+    <li>Beschrijving stagewerkzaamheden</li>
+      </ol>
+      </td>
+  </tr>
+  <tr>
+      <td>
+
+      </td>
+      <td>
+      Beschrijving stagebedrijf:
+      <ol>
+    <li>Bedrijfsnaam</li>
+    <li>Adres</li>
+    <li>Postcode</li>
+    <li>Plaats</li>
+    <li>Sector</li>
+    <li>Core Business</li>
+      </ol>
+      </td>
+  </tr>
+  <tr>
+      <td>
+  Opmerking
+     </td>
+      <td>
+  Opmerking
+      </td>
+  </tr>
+</table>
+</p>
+
+
+
+</body>
+</html>
